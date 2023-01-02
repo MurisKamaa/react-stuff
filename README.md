@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 This is a refresher for my react.js skills.
 Been quite some time since I last worked in react
 I hope to catch up with the basics again
