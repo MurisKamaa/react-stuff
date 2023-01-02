@@ -1,5 +1,5 @@
 ---
-permalink: ../public/index.html
+permalink: ./index.html
 ---
 
 This is a refresher for my react.js skills.
